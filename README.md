@@ -1,7 +1,7 @@
 
 This is the webpage for the paper: Temporally Coherent Embeddings for Self-Supervised Video Representation Learning
 
-## [[ Paper ]](https://arxiv.org/abs/2004.02753) [[Code & Pre-trained Models]](github.com/csiro-robotics/tce.git) [[ BibTex ]](docs/TCE2020.bib)
+## [[ Paper ]](https://arxiv.org/abs/2004.02753) [[Code & Pre-trained Models]](https://github.com/csiro-robotics/TCE) [[ BibTex ]](docs/TCE2020.bib)
 
 # Abstract
 <div style="text-align: justify"> 
