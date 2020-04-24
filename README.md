@@ -23,7 +23,7 @@ Our training code and pretrained models are available at [github.com/csiro-robot
 <div style="margin:0 auto"> <img width="540" src='docs/images/tsne_TCE.gif'> </div>
 
 ## Quantitative
-For datasets pre-trained on the UFC101 dataset, we achieve state-of-the-art results and outpeform the majority of approaches pre-trained on the much larger Kinetics400 dataset.
+For datasets pre-trained on the UFC101 dataset, we achieve state-of-the-art results and outperform the majority of approaches pre-trained on the much larger Kinetics400 dataset.
 <div style="margin:0 auto"> <img width="540" src='docs/images/UCF101_results.jpg'> </div>
 
 
