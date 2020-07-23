@@ -1,4 +1,4 @@
-## [Joshua Knights]() and [Anthony Vanderkop]() and [Daniel Ward](https://danielcward.github.io/) and [Olivia Mackenzie-Ross]() and [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam)
+## [Joshua Knights]() and [Ben Harwood]()  and [Daniel Ward](https://danielcward.github.io/) and [Anthony Vanderkop]() and [Olivia Mackenzie-Ross]() and [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam)
 
 This is the webpage for the paper: Temporally Coherent Embeddings for Self-Supervised Video Representation Learning
 
@@ -25,7 +25,7 @@ Our training code and pretrained models are available at [github.com/csiro-robot
 
 ## Quantitative
 For datasets pre-trained on the UFC101 dataset, we achieve state-of-the-art results and outperform the majority of approaches pre-trained on the much larger Kinetics400 dataset.
-<div style="margin:0 auto"> <img width="540" src='docs/images/UCF101_results.jpg'> </div>
+<div style="margin:0 auto"> <img width="540" src='docs/images/results.png'> </div>
 
 
 # Citation
