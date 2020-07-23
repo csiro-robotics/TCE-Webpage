@@ -33,7 +33,7 @@ For datasets pre-trained on the UFC101 dataset, we achieve state-of-the-art resu
 ```
 @misc{knights2020tce,
     title={Temporally Coherent Embeddings for Self-Supervised Video Representation Learning},
-    author={Joshua Knights and Anthony Vanderkop and Daniel Ward and Olivia Mackenzie-Ross and Peyman Moghadam},
+    author={Joshua Knights and Ben Harwood and Daniel Ward and Anthony Vanderkop and Olivia Mackenzie-Ross and Peyman Moghadam},
     year={2020},
     eprint={2004.02753},
     archivePrefix={arXiv},
