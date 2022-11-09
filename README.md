@@ -1,4 +1,4 @@
-## [Joshua Knights]() and [Ben Harwood]()  and [Daniel Ward](https://danielcward.github.io/) and [Anthony Vanderkop]() and [Olivia Mackenzie-Ross]() and [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam)
+## [Joshua Knights](), [Ben Harwood](), [Daniel Ward](https://danielcward.github.io/), [Anthony Vanderkop](), [Olivia Mackenzie-Ross]() and [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam)
 
 This is the webpage for the paper: Temporally Coherent Embeddings for Self-Supervised Video Representation Learning
 
